@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Strange Wilderness",
+    "runtime": 87,
+    "rotten_tomatoes_rating": 2
+  },
+  {
+    "title": "Zoom",
+    "runtime": 93,
+    "rotten_tomatoes_rating": 3
+  },
+  {
+    "title": "Passion Play",
+    "runtime": 94,
+    "rotten_tomatoes_rating": 3
+  },
+  {
+    "title": "The Darkness",
+    "runtime": 101,
+    "rotten_tomatoes_rating": 3
+  },
+  {
+    "title": "Bless the Child",
+    "runtime": 107,
+    "rotten_tomatoes_rating": 3
+  },
+  {
+    "title": "Kickin' It Old Skool",
+    "runtime": 108,
+    "rotten_tomatoes_rating": 2
+  },
+  {
+    "title": "Nina",
+    "runtime": 109,
+    "rotten_tomatoes_rating": 2
+  },
+  {
+    "title": "Getaway",
+    "runtime": 123,
+    "rotten_tomatoes_rating": 2
+  }
+]

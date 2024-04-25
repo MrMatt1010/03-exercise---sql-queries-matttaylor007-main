@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Raiders of the Lost Ark",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Minority Report",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "War Horse",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Terminal",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Always",
+    "directors": "Steven Spielberg"
+  },
+  {
+    "title": "Star Wars: A New Hope",
+    "directors": "George Lucas"
+  },
+  {
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "directors": "George Lucas"
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "directors": "George Lucas"
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "directors": "George Lucas"
+  },
+  {
+    "title": "The BFG",
+    "directors": "Steven Spielberg"
+  }
+]
